@@ -1,0 +1,48 @@
+.htp{
+    height: 90%;
+    width: 100%;
+    float: left;
+}
+
+.h1{
+    color:rgb(60, 139, 60);
+}
+
+h5{
+    color:rgb(60, 139, 60) ;
+}
+
+.thunder{
+    box-shadow: rgb(68, 68, 68);
+}
+
+.thunder :hover{
+    transition: .7s linear;
+    
+}
+
+h2{
+    text-decoration: underline;
+}
+
+
+.soon img{
+    height: 90%;
+    width: 100%;
+}    
+
+.ddg img{
+    border-radius: 50%;
+}
+
+
+.babygirl{
+
+}
+
+.bbg{
+    border-radius: 50%;
+
+}
+
+
